@@ -1,7 +1,7 @@
 
 # Dental Office Customer Churn Prediction
 
-This project focuses on building a machine learning model to predict customer churn for a dental office. The model uses logistic regression, supported by advanced feature engineering and data balancing techniques to achieve high accuracy.
+This project focuses on building a machine learning model to predict customer churn for a dental office. The model uses logistic regression, supported by advanced feature engineering and data balancing techniques to achieve high accuracy. I changed the dataset to a synthetic data because this project was created while working for a dental office and had to change due to privacy policies. 
 
 ## 🚀 Features
 - **Churn Prediction Model:** Built with logistic regression, achieving 97% accuracy.
@@ -35,8 +35,3 @@ This project focuses on building a machine learning model to predict customer ch
 - **Accuracy:** 97%
 - **Precision & Recall:** Balanced for both churn and non-churn cases.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repo and submit pull requests.
-
-## 📜 License
-This project is open-source and available under the MIT License.
